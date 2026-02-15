@@ -2,6 +2,7 @@ import Image from "next/image";
 import Button from "./components/Button";
 import Project_card from "./components/Project_card";
 import Navbar from "./components/Navbar";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -32,13 +33,13 @@ export default function Home() {
             height={50}
           />
         </div>
-        <Image
-          className="gap-4"
-          src="/LinkedIn.jpg"
-          alt="LinkedIn Logo"
-          width={52}
-          height={52}
-        />
+        <Link href="https://www.linkedin.com/in/dante-hernandez-8026313a6/" target="_blank" rel="noopener noreferrer">
+          <Image src="/LinkedIn.jpg" 
+          alt="LinkedIn" 
+          width={52} 
+          height={52} 
+          />
+        </Link>
       </div>
 
     <div className="flex flex-col p-5"> 
