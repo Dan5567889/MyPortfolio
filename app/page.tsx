@@ -19,7 +19,7 @@ export default function Home() {
           />
           <Image
             className="rounded-full"
-            src="/me.jpg"
+            src="/ME.jpg"
             alt="Profile Picture"
             width={148}
             height={148}
