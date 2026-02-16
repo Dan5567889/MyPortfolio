@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="grid grid-cols-1 place-content-center gap-4 bg-[#2E4F4F] text-[#F3F4F4]">
+    <div className="grid grid-cols-1 place-content-center gap-4 bg-[#2E4F4F] text-[#F3F4F4] min-h-screen">
       <div className="flex flex-col items-center gap-2 p-5 ">
         <h1> About </h1>
         <h3> Dante Hernandez</h3>
