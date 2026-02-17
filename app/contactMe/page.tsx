@@ -2,7 +2,7 @@ export default function ContactMe() {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen bg-[#2E4F4F] text-[#F3F4F4] p-8">
             <h1 className="text-4xl font-bold mb-6">Contact Me</h1>
-            <form className="flex flex-col gap-4 w-full max-w-md bg-[#0E8388] p-6 rounded-lg shadow-lg">
+            <form className="flex flex-col gap-4 w-full max-w-md bg-[#2C3333] p-6 rounded-lg shadow-lg">
                 <label className="flex flex-col">
                     <span className="font-semibold mb-2">Name:</span>
                     <input
