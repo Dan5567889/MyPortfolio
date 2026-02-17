@@ -1,10 +1,17 @@
 import Button from "../components/Button";
+import Image from "next/image";
 
 export default function Project3() {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen p-8 bg-[#2E4F4F] text-[#F3F4F4]">
                    <div className="max-w-2xl w-full bg-secondary/10 p-10 rounded-3xl border border-white/10 shadow-xl">
-                       
+                   <Image 
+                    src="/DM.jpg"
+                    alt="DM Construction" 
+                    width={600} 
+                    height={400} 
+                    className="rounded-lg mb-6" 
+                />
                        <h1 className="text-4xl font-bold mb-4">DM Construction</h1>
                        
                        <div className="space-y-6">
