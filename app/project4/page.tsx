@@ -24,7 +24,7 @@ export default function Project4() {
                            </h4>
        
                            <div className="flex gap-4 pt-4 justify-center">
-                               <Button text="Website" href="https://codehs.com/sandbox/id/decimal-to-binary-challen-edS6KL" className="bg-[#0E8388]"/>
+                               <Button text="Website" href="https://codehs.com/sandbox/id/decimal-to-binary-challen-edS6KL" className="px-4 py-2 bg-cyan-600 text-white font-semibold rounded-lg hover:bg-cyan-700 focus:outline-none focus:ring-2 focus:ring-cyan-400"/>
                            </div>
                        </div>
                    </div>

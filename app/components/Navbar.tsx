@@ -15,7 +15,7 @@ export default function Navbar() {
 
       <div className="flex flex-row p-5 gap-4 ml-auto">
         
-      <Button text="About" href="/" />
+      <Button text="About" href="/"/>
       <Button text="Projects" href="/Projects" />
       </div>
     </div>
