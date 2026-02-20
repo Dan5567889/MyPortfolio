@@ -22,7 +22,7 @@ export default function Projects() {
             <div className="bg-[#2C3333] text-[#F3F4F4] p-5 rounded-lg w-full max-w-md">
             <Image 
                     src="/midterm.jpg"
-                    alt="Our Blooms" 
+                    alt="Midterm" 
                     width={600} 
                     height={400} 
                     className="rounded-lg mb-6" 
@@ -34,7 +34,7 @@ export default function Projects() {
             <div className="bg-[#2C3333] text-[#F3F4F4] p-5 rounded-lg w-full max-w-md">
             <Image 
                     src="/DM.jpg"
-                    alt="Our Blooms" 
+                    alt="DM construction" 
                     width={600} 
                     height={400} 
                     className="rounded-lg mb-6" 
@@ -46,7 +46,7 @@ export default function Projects() {
             <div className="bg-[#2C3333] text-[#F3F4F4] p-5 rounded-lg w-full max-w-md">
             <Image 
                     src="/dec.jpg"
-                    alt="Our Blooms" 
+                    alt="Decimal" 
                     width={600} 
                     height={400} 
                     className="rounded-lg mb-6" 
