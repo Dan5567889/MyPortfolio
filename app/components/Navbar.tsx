@@ -17,6 +17,7 @@ export default function Navbar() {
         
       <Button text="About" href="/"/>
       <Button text="Projects" href="/Projects" />
+      <Button text="Contact" href="/contactMe" />
       </div>
     </div>
   );
