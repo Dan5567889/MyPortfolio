@@ -21,7 +21,7 @@ export default function Projects() {
 
             <div className="bg-[#2C3333] text-[#F3F4F4] p-5 rounded-lg w-full max-w-md">
             <Image 
-                    src="/midterm.jpg"
+                    src="/Midterm.jpg"
                     alt="Midterm" 
                     width={600} 
                     height={400} 
